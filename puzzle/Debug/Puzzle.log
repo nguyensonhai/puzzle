@@ -1,0 +1,44 @@
+﻿  Main.cpp
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(15): error C3861: 'textcolor': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(16): error C2065: 'X': undeclared identifier
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(16): error C2065: 'Y': undeclared identifier
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(16): error C3861: 'gotoxy': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(17): error C2065: 'X': undeclared identifier
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(17): error C2065: 'Y': undeclared identifier
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(17): error C3861: 'gotoxy': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(18): error C2065: 'X': undeclared identifier
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(18): error C2065: 'Y': undeclared identifier
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(18): error C3861: 'gotoxy': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(19): error C2065: 'X': undeclared identifier
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(19): error C2065: 'Y': undeclared identifier
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(19): error C3861: 'gotoxy': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(20): error C2065: 'X': undeclared identifier
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(20): error C2065: 'Y': undeclared identifier
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(20): error C3861: 'gotoxy': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\dohoa.h(44): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(6): error C2556: 'int main(void)': overloaded function differs only by return type from 'int main(void)'
+  e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(3): note: see declaration of 'main'
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(6): error C2601: 'main': local function definitions are illegal
+  e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(4): note: this line contains a '{' which has not yet been matched
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(89): error C2601: 'gotoXY': local function definitions are illegal
+  e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(4): note: this line contains a '{' which has not yet been matched
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(10): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(11): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(15): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(16): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(17): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(18): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(19): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(25): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(27): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(35): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(37): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(48): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(55): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(61): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(67): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(73): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(84): error C3861: 'gotoXY': identifier not found
+e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(85): error C2562: 'main': 'void' function returning a value
+  e:\documents\studying\project strd 25-oct-18\c++\puzzle\puzzle\main.cpp(5): note: see declaration of 'main'
