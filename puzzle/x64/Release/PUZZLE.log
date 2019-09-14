@@ -1,0 +1,5 @@
+﻿  Puzzle.cpp
+e:\documents\k-h bezt\puzzle\puzzle\puzzle.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\documents\k-h bezt\puzzle\puzzle\puzzle.cpp(58): error C2065: 'i': undeclared identifier
+e:\documents\k-h bezt\puzzle\puzzle\puzzle.cpp(59): error C2065: 'i': undeclared identifier
+e:\documents\k-h bezt\puzzle\puzzle\puzzle.cpp(163): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data

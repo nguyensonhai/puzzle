@@ -1,0 +1,10 @@
+﻿  Puzzle.cpp
+e:\documents\k-h bezt\puzzle\puzzle\puzzle.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\documents\k-h bezt\puzzle\puzzle\puzzle.cpp(65): warning C4101: 'run': unreferenced local variable
+e:\documents\k-h bezt\puzzle\puzzle\puzzle.cpp(200): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 24 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PUZZLE.vcxproj -> E:\Documents\K-H Bezt\PUZZLE\Release\PUZZLE.exe

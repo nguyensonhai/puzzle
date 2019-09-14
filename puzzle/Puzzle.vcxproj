@@ -19,15 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dohoa.h" />
+    <ClInclude Include="Puzzle.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Main-Puzzle.cpp" />
+    <ClCompile Include="Puzzle.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{7551EFDF-7891-4261-8FB0-3131F8953CCF}</ProjectGuid>
-    <RootNamespace>Puzzle</RootNamespace>
+    <ProjectGuid>{3906C5FF-B1D5-4D32-90C9-AFB340232AE3}</ProjectGuid>
+    <RootNamespace>PUZZLE</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
